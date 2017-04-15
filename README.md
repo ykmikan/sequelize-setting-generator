@@ -1,2 +1,2 @@
-This is generater that make setting for using sequelize migration.
+This is generator that make setting for using sequelize migration.
 
